@@ -1,0 +1,22 @@
+{
+  "name": "todo-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "author": "Tabola Mikhail",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "boom": "^7.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-promise-router": "^4.1.1",
+    "mongoose": "^6.7.3",
+    "nodemon": "^2.0.20",
+    "qs": "^6.11.0"
+  }
+}
